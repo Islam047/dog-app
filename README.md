@@ -8,7 +8,7 @@ wisely used Shared Preference to solve the problem of a single user in Firebase 
 
 <p align="left">
 </a>  
-<a href="https://github.com/Islam047/Coin-pro/blob/main/app-release.apk" target="blank"><img align="center" src="https://static.tildacdn.com/tild6536-3465-4061-b030-656164346166/arrow_down.png" alt="islam_shamurov" height="100" width="100" /></a>
+<a href="https://github.com/Islam047/dog-app/blob/main/app-release.apk" target="blank"><img align="center" src="https://static.tildacdn.com/tild6536-3465-4061-b030-656164346166/arrow_down.png" alt="islam_shamurov" height="100" width="100" /></a>
 
   
 
